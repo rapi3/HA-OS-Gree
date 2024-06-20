@@ -15,7 +15,7 @@
 
 DONE
 
-This integration it is made from original HA OS gree climate integration and patch from kspearrin:
+This integration it is made from original HA OS Gree Climate Integration and patch from kspearrin:
 
 https://github.com/home-assistant/core/pull/100731
 https://github.com/home-assistant/core/tree/ec2116a3e78efe9bcbb35434efc6c84d568a6eba/homeassistant/components/gree
