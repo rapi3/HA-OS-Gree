@@ -20,3 +20,5 @@ This integration it is made from original HA OS Gree Climate Integration and pat
 https://github.com/home-assistant/core/pull/100731
 https://github.com/home-assistant/core/tree/ec2116a3e78efe9bcbb35434efc6c84d568a6eba/homeassistant/components/gree
 https://github.com/home-assistant/core/tree/ec2116a3e78efe9bcbb35434efc6c84d568a6eba/tests/components/gree
+
+![gree-1](https://github.com/rapi3/HA-OS-Gree/assets/18531150/9ff6e997-ad80-4298-ac90-dda103422f0d)
