@@ -2,7 +2,9 @@
 # HA Gree climate as custom integration that work from another LAN segment, you can specify AC IP address.
 # Done because HA team decided not to update the official Gree integration to work from any LAN segment.
 
-HACS installation: search on HACS integration for Gree climate or add manual the repository:
+HACS installation:<br>
+search on HACS integration for Gree climate integration that work from another LAN segment / you can specify AC IP address or add manual the repository:<br>
+
 1. Go to Home Assistant and navigate to HACS.
 2. In HACS, select "Integrations".
 3. Click on the three dots button in the upper right corner and select "Custom repositories".
