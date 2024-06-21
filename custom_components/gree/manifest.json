@@ -2,7 +2,7 @@
   "domain": "gree",
   "name": "Gree Climate",
   "version": "1.0.0",
-  "codeowners": ["@cmroche"],
+  "codeowners": ["@rapi3"],
   "config_flow": true,
   "dependencies": ["network"],
   "documentation": "https://www.home-assistant.io/integrations/gree",
