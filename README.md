@@ -1,5 +1,5 @@
 # HA-OS Gree
-# Gree climate custom integration that work from another LAN segment, you can specify AC IP address.
+# Original HA Gree climate as custom integration that work from another LAN segment, you can specify AC IP address.
 
 1. copy all from Gree to custom_components/gree/<br>
 2. restart HA<br>
