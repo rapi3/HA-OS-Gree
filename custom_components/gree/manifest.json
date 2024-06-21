@@ -5,7 +5,7 @@
   "codeowners": ["@rapi3"],
   "config_flow": true,
   "dependencies": ["network"],
-  "documentation": "https://www.home-assistant.io/integrations/gree",
+  "documentation": "https://github.com/rapi3/HA-OS-Gree",
   "iot_class": "local_polling",
   "loggers": ["greeclimate"],
   "requirements": ["greeclimate==1.4.1"]
