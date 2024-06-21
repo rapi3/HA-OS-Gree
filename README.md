@@ -14,7 +14,7 @@ Manual instalation:
 2. restart HA<br>
 3. check log for errors<br>
 
-Set-up:
+Set-up:<br>
 If no errors then go to Integration - Add integration - Gree Climate and enter AC IP if it is not found automaticaly.<br>
    
 5. If AC it is find and set-up OK check your Gree Climate - Integration entries and rename switches if required, you can find the switch name in core.entity_registry:<br>
